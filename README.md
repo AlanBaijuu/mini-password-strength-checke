@@ -1,2 +1,2 @@
-# mini-password-strength-checke
-test
+# mini-password-strength-checker
+The Password Strength Checker is a simple cybersecurity project developed using Python. It analyzes a user’s password and determines whether it is weak, medium, or strong based on factors like length, uppercase letters, numbers, and special characters. This project helps demonstrate the importance of creating secure passwords and introduces basic cybersecurity and Python programming concepts.
